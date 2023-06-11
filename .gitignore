@@ -1,2 +1,4 @@
 problems
 node_modules
+.env
+cookie.jar
